@@ -1,0 +1,30 @@
+.bar{
+    height: 5px;
+    width: 90px;
+    background:#b6cffc;
+    position: relative;
+    border-radius: 30px;
+    margin-bottom: 3%;
+}
+
+.bar::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: -2.7px;
+    height: 10px;
+    width: 10px;
+    border-radius: 50%;
+    background:#4284f7;
+    animation: animate 3s linear infinite; 
+}
+
+@keyframes animate { 
+    0% { 
+        left: 0; 
+    } 
+
+    100% { 
+        left: 100%; 
+    } 
+}

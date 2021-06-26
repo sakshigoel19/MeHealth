@@ -1,0 +1,20 @@
+
+.footer {
+    margin-top: 20px;
+    background: #238CCC;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logo img {
+    height:40px;
+    padding:5px;
+}
+
+.right {
+    flex-grow: 1;
+    color:beige;
+    font-size: 12px;
+}
+

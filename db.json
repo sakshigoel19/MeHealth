@@ -1,0 +1,803 @@
+{
+    "articles":[
+        {
+            "id":1,
+            "team":3,
+            "title":"How to Escape an “I Give Up” Mindset",
+            "image":"1.jpg",
+            "body":"If you’re feeling overwhelmed and helpless these days, it may help you to realize that your “I give up” thinking can be attributed to your biology, and not something you’ve done wrong....The idea of not putting forth any effort can sound appealing when you’re feeling depressed or anxious. Effort takes energy, and maybe lying in bed would feel a lot better. It might feel good in the short term, but there are consequences to giving up that will matter in the long run.You can do a quick body and mind scan and check if someone, or something, is causing this lack of motivation.........That will allow you to quickly take action and at least assess what might be causing these feelings of defeat.When you focus on those less-than-desirable feelings, try not to panic or get angry at yourself.Please remind yourself that the feeling may be uncomfortable, but you can deal with it and still motivate yourself. In other words, acknowledge the feeling and let it know that you are still in control.....In the long term, reframing your thinking can be beneficial.For example, instead of saying, 'I cannot do that' reframe to say, 'I cannot do that, but I can do this instead.'",
+            "date":"10/12/2018",
+            "author":"Shruti Bansal",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":2,
+            "team":4,
+            "title":"I’m depressed",
+            "image":"2.jpg",
+            "body":"I’m constantly trying to be positive but it’s so hard sometimes... I missed my morning meds and right now I feel like I can’t go on, that I’ve got nobody and that I don’t wanna talk to anyone close to me... I feel so much in pain.... I know I’m having a depression episode ... and that it’ll pass... but u can never get used to having bpd you know :( i feel like I’m drowning in slow motion while everything around me resumes normally I just felt a weird numbness in the back of my head. I think it has happened before because of anxiety. I've been in the verge of a panick attack so that's hasn't helped. Have you ever experienced something similar?I just had my first vaccine shot so I got extremely scared.",
+            "date":"10/12/2018",
+            "author":"Tushar Jain",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":3,
+            "team":3,
+            "title":"What to Look For in a Partner if You Have Depression",
+            "image":"3.jpg",
+            "body":"Take it from me, someone who’s had to navigate dating as a person with depression: it’s not easy. I won’t sugarcoat it.Of course, love is the pillar of any romantic relationship, but when you’re depressed, you really need a partner that can love you unconditionally — whether you’re having a good mental health day or a bad mental health day.Many people with depression know how hard it can be to find the motivation to do even the smallest tasks. It can be really helpful to have a partner who is encouraging in general — whether they’re just motivating you to get out of bed on a rough morning or they’re pushing you to take the next step with your career. Being supportive of someone with depression is one of the simplest, yet most meaningful “gifts” that a partner can offer in a relationship.",
+            "date":"10/12/2018",
+            "author":"Deepti Kaushik",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":4,
+            "team":6,
+            "title":"3 Tips to Stay Active When You’re Depressed",
+            "image":"4.jpg",
+            "body":"When you’re suffering from depression, you simply have to get real about your abilities and limits, and exercise is no exception.Even a walk around the block — or let’s be realistic, around your house on the tough days — is better than nothing. And if you can take on more than that, like a 15-minute weight workout, consider that a huge win......Practice Mindfulness........Working out in a mindful way serves a dual benefit of helping you to guard against negative self-talk while also giving you the space to intentionally practice mindfulness.All exercise is good, but weight training can help lift depression. “Some research has suggested that weight training two or more times per week can improve symptoms of depression.”",
+            "date":"10/12/2018",
+            "author":"Shivansh Tiwari",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":5,
+            "team":8,
+            "title":"What to Say to Someone When They’re Inconsolable",
+            "image":"5.jpg",
+            "body":"Sometimes — especially when someone is deep in the throes of sorrow or grief — the deepest comfort you can offer is your presence. A non-judgmental, listening ear. A shoulder to cry on. Someone who will just “hold space” while your loved one lets it all out.If your loved one is allowing you to be present with them, they trust you. One of the greatest gifts you can give them now is empathy. And while you are not going through the exact experience that they are, you might recall times you felt like they did — and you can listen to what they are telling you about their experience. This opens a door for you to help give voice to their feelings and gently add your own perspective. If your loved one has lost a family member, instead of saying, “I’m so sorry for your loss,” you might consider something like, “Losing a loved one can hurt so deeply. It sounds like you are feeling like your world is coming apart right now. I’ve been there; I understand. It is such a devastating loss, and my heart is breaking for you.”",
+            "date":"10/12/2018",
+            "author":"Nikita Khandelwal",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":6,
+            "team":7,
+            "title":"Attempting to Understand Suicide",
+            "image":"6.jpg",
+            "body":"Unfortunately, some people consider suicide to be a selfish act, which may be related to how suicide is discussed in certain religions. However, for someone who is depressed or feels extremely hopeless, their suicidal impulse or attempt is far from selfish. Often, these people think their loved ones would be much better off without them around. They can’t imagine a world in which they are not in endless pain, and they don’t believe that they bring any value to those around them. This explains why parents commit suicide despite loving their children immensely  If you or a loved one is experiencing suicidal thoughts or feelings, you are not alone. The National Suicide Prevention Lifeline can be reached 24 hours a day, every day, at 1-800-273-8255. And don’t be scared to reach out for help. Therapy can be extremely useful in showing people that things are never as hopeless as they may seem.",
+            "date":"10/12/2018",
+            "author":"Anshika Chaturvedi",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":7,
+            "team":10,
+            "title":"How I Knew I Had Bipolar Disorder, Not Depression",
+            "image":"7.jpg",
+            "body":"I was used to a roller-coaster of moods through my earlier teenage years, but I thought that turbulence was behind me. I had no idea anything was brewing in my brain. Unfortunately, by the end of 1998, my mental health had reached its breaking point. I had slid, little by little, into the vortex of a severe depression. By that time I was wishing for death every day, could barely get out of bed, and had turned to self-harm for some small measure of relief. I had no idea why these things were happening to me as nothing notable had preceded them, but they were obviously happening — brutally.I searched site after site and, of course, ran into the definition of major depression everywhere. But then, on one of the sites, I ran into the definition of bipolar disorder. While I knew I was in a severe depression now, I also knew that in I had experienced times that seemed an awful lot like hypomania. By the time I had printed off a tree’s worth of information about the condition and cried a tissue box worth of tears, I suspected that I knew what was wrong with me — I had bipolar disorder. Doctor listened to me when I said I had bipolar disorder and started to treat me for it.",
+            "date":"10/12/2018",
+            "author":"Rashmi Chhabra",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":8,
+            "team":6,
+            "title":"Lying About Your Depression Will Make It Worse",
+            "image":"8.png",
+            "body":"In high school I lied to my doctor. My mother had long suspected I was dealing with depression. She talked to our family doctor about it and then scheduled an appointment for me. When I went in for my check up, my doctor asked me if I was depressed. I lied. I told him that I was not depressed. Why did I lie? I asked myself, “How is it possible that I could feel depressed? I should be happy. Being depressed is a bad example to other people.” My depression went untreated for years. After high school, I worked in a wholesale plumbing warehouse. Many days I felt happy, but many more my gloom was like a straitjacket. I couldn’t escape it no matter how much I exercised, read positive books, or told myself to feel better.Later that same year, for the first time in my life, I went for counseling.I can still remember one session that changed everything for me. I don’t remember what I said, or even what the counselor said. It probably doesn’t matter what was said, because it’s what I did that changed me. I was honest this time. I admitted that I felt gloom and sadness that wouldn’t lift. I admitted that no matter what I did, I couldn’t shake the thoughts that were like vice-grips on my mind.",
+            "date":"10/12/2018",
+            "author":"Pranjal Desai",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":9,
+            "team":14,
+            "title":"How I Overcame Depression And Traveled To My Bucket List Destinations",
+            "image":"9.png",
+            "body":"I always wanted to travel. But something always held me back....My depression.....After college, I wrestled with my depression, but finally got it more or less under control in my late-20s. I found a therapist I related to and a medication regimen that worked for me. My relationships were better and I was making progress. Therapy is now, and has been for years, a part of my life and extremely important to me. It allows me to maintain structure and provides necessary checks and balances when I can feel myself slipping back into those dark, loathsome days. I thought of myself as someone who was now capable and adaptable. But I knew I needed to travel. It was something that called to me. A challenge.....While it wasn’t as impulsive and reckless as I’d always planned, I booked a flight and made reservations for the first leg of my trip through southern Mexico. I’d proceed through Belize, Guatemala, El Salvador, Honduras, Nicaragua, Costa Rica, and Panama. I can honestly say that my trip was life changing. I marveled at the Mayan ruins of Tulum, swam with whale sharks in Belize, touched walls of cathedrals pockmarked by Sandinista bullets in Nicaragua, and nearly became shark bait surfing off of an island in Panama",
+            "date":"10/12/2018",
+            "author":"Ankita Dubey",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":10,
+            "team":14,
+            "title":"City Dwellers, Embrace the Healing Power of Nature",
+            "image":"8.jpg",
+            "body":"From home, the outdoors can seem bland and boring. But, those of us who embrace nature understand being outside can help us expand our minds, stretch and strengthen our bodies, and awe and rejuvenate us in unique ways that will keep us coming back for more. We realize nature is alive, full of striking beauty and complexity that is often hidden in its deceptive simplicity.When people plan going on a camping trip, they tend to think of it as a series of connected “camping” activities. They’ll probably roast s’mores, take a hike in the woods – possibly getting a glimpse of some wildlife, and spend some time seeing the sights. A trip to the great outdoors is a great way to contemplate the relationships we share with each other. The growing body of scientific research that supports this idea is gaining momentum. There’s reason to believe the time we spend in nature can impact our mood and self-esteem, alleviate depression and have a general therapeutic effect",
+            "date":"10/12/2018",
+            "author":"Ankush Goel",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":11,
+            "team":2,
+            "title":"When Something Doesn’t Work, See an Opportunity Instead of Failure",
+            "image":"9.jpg",
+            "body":"Things in life don’t always work out the way that you want them to. Sometimes it’s small snags or setbacks. In other cases disaster can strike – such as the COVID pandemic – and can put you into a state of feeling trapped, lost, and scared. While any level of failure or problems we run into will sting, it’s important for you to seek opportunity during those moments and times.Even during times where it feels like we’re not going very far, there are many opportunities for us to do things. Things that once were mere thoughts have now been our reality. Time and again, people have broken boundaries and stereotypes alike. The amazing thing about all this is that this has nothing to do with our age or education. All that you have to do is hone your skills and abilities to accept new challenges.Put your values and priorities on paper. Once you know your opportunity, it’s a matter of setting long-term goals with smaller short-term goals that you can work on from month to month.",
+            "date":"10/12/2018",
+            "author":"Renu Srivastava",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":12,
+            "team":4,
+            "title":"My battle with depression and the two things it taught me",
+            "image":"10.jpg",
+            "body":"I’ve spent a decade slipping in and out of depression, but thanks to the right medicine and loving people, I’m back to being me again....Depression progressively eats away your whole being from the inside. It’s with you when you wake up in the morning, telling you there’s nothing or anyone to get up for. It’s with you when the phone rings and you’re too frightened to answer it.So why was I depressed? The simple answer is that I don’t know. There was no single factor or trigger that plunged me into it. I’ve turned over many possibilities in my mind. Depression may start for no definable reason, but it leaves a growing trail of problems in its wake. The more ill I got, the less work I could do, the more savings I spent and the larger the piles of unpaid bills became. But now I can start to tackle these things.....If you still attach stigma to people with mental illness, please remember two things. One, it could easily happen to you. And two, no one stigmatises their illness more than the people who suffer from it. Reach out to them.",
+            "date":"10/12/2018",
+            "author":"Yashi Thapliyal",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":13,
+            "team":7,
+            "title":"Stop Overthinking And Live In The Present!",
+            "image":"11.jpg",
+            "body":"Overthinking is a common problem, but when it gets out of hand it can lead to sleep disruption, “analysis paralysis,” and even threaten mental health. It’s also a difficult one to diagnose, let alone cure.The problem is that most people don’t consider overthinking a problem. When someone criticizes overthinking, we often assume that the problem is dwelling upon or spiraling through negative thoughts. We tend to assume, by the same token, that positive thoughts are good. But it’s a mistake to assume all positive thoughts are good....The only way to stop identifying yourself with your thoughts is to stop following through on all your thoughts. Instead, decide to live in the present moment — where you don’t have time to think, only to experience.....Thinking is a tool. Instead of using that tool constantly during the 16 or 17 hours that you’re awake, pull it out to use it when you need it.",
+            "date":"10/12/2018",
+            "author":"Sanchi Saxena",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":14,
+            "team":9,
+            "title":"What is anxiety, and how can you deal with it?",
+            "image":"12.jpg",
+            "body":"It’s been a difficult year for many of us, with many unforeseen circumstances we couldn’t have possibly imagined. There’s no surprise then, that our anxiety levels are at an all-time high, as discovered in a study by King’s College London. Anxiety disorders are the most common mental health problem in the world, with the World Health Organisation (WHO) suggesting that 1 in 13 people globally suffer from an anxiety disorder. So if you’re dealing with one, know that you’re absolutely not alone. Anxiety is more prevalent in women and young people, which could be for a number of reasons. While women are twice as likely to be diagnosed with anxiety than men, 7.2% of 5-19-year-olds experience an anxiety condition.......This anxiety is enough to have a negative impact on their regular lives, as it causes uncontrollable worry that can make them unable to focus on what they’re meant to be doing. It can also cause problems with relationships, sleeping, eating and work. Worries do not usually relate to just one issue, but instead, relate to many aspects of a person’s life. ",
+            "date":"10/12/2018",
+            "author":"Nitin Bhargav",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":15,
+            "team":9,
+            "title":"How to Cope With Anxiety and Depression",
+            "image":"13.jpg",
+            "body":"Do you sometimes worry so much that it interferes with your everyday activities? Or feel so blue that it completely clouds your outlook? Do you often experience these or similar feelings together? You’re not the only one.People with anxiety disorder should speak with a psychiatrist, therapist, or other healthcare professional about their symptoms and start treatment as soon as possible. If you suspect you have both anxiety and depression, Connolly recommends getting a thorough evaluation from a psychiatrist as a first step. It's really crucial for people with both [anxiety and depression] to have a good assessment to rule out bipolar disorder,she says.",
+            "date":"10/12/2018",
+            "author":"Neelam Gupta",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":16,
+            "team":1,
+            "title":"7 tips to live a happier life ",
+            "image":"14.jpg",
+            "body":"Think of your energy as a limited resource, like money in an account. You begin the day with a certain amount to spend, which varies from person to person based on factors, such as age, sleep, stress levels, medical conditions and lifestyle. Throughout your day, multiple transactions (activities) occur as you withdraw energy from and deposit energy into your account. While you may not always have control over activities that deplete your energy, you can take steps to deposit more energy into your account..Consume a variety of foods from all the food groups to get a range of nutrients to energize you throughout the day. Opt for fresh or frozen fruits and vegetables, especially nutrient-dense dark, leafy greens and broccoli, as well as orange vegetables, including carrots and sweet potatoes.Getting more sleep seems to be a healthy habit many people need to improve on.Maximize the amount of time that you spend with people you enjoy being around. Connecting with others who radiate positivity and have similar interests will excite and energize you.",
+            "date":"10/12/2018",
+            "author":"Sandhya Mishra",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":17,
+            "team":3,
+            "title":"How To Be Happy Always ",
+            "image":"5.jpg",
+            "body":"It’s a fact that if we keep searching for happiness from someone or something, then we will be dependent on an external source for our happiness. But instead, if we believe that happiness is something that exists within us, in our thoughts, beliefs, inner conscious, then we can easily achieve our goal of becoming happy. So, happiness is your choice of thoughts that can produce a pleasant feeling in your subconscious mind.....You need to always remember that positive thoughts create positive emotions or feelings and accordingly a positive state of mind. Just like how one perceives certain traits like being confident, fearful, having attention, interest, anger, etc. to be inclusive and individualistic, happiness is also the same.If we can learn to be confident, overcome fear, increase our focus, try not to be confused and stuck can’t we learn to be happy? Rather, can’t we create happiness on our own?",
+            "date":"10/12/2018",
+            "author":"Ishani Paliwal",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":18,
+            "team":4,
+            "title":"Talking to Parents About Depression",
+            "image":"6.jpg",
+            "body":"Some people worry about how a parent might react. Will mom be mad? Will dad be disappointed? It's natural to worry, but most parents are supportive and understanding when they realize what's going on...Find a time when you can approach your mom or dad in a calm way. You might want to open the conversation by asking,  'Can I talk to you? I've been feeling depressed and bad about things. I've been thinking I might need to talk to someone'....Sometimes, talking about depression can be hard for parents too. It might take several conversations, or you might feel better right away. Every situation is different....Even if you think a parent won't be willing or able to help, it's still worth a try to talk. People are often surprised by how much their parents rally to their side when they ask for help, even if the parents have a lot going on themselves.",
+            "date":"10/12/2018",
+            "author":"Kashish Arora",
+            "tags":["Knicks","Porzinguis"]
+        }
+    ],
+    "videos":[
+        {
+          "id":1,
+          "team":2,
+          "title":"Keep going! Your failures don't define you! by Gaur Gopal Das",
+          "image":"1.jpeg",
+          "url":"4e0-dQEmJDY",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":2,
+          "team":8,
+          "title":"When PROBLEMS Are Beyond Your CONTROL ........",
+          "image":"2.jpg",
+          "url":"1kLZJeFNP94",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":3,
+          "team":8,
+          "title":"Before You Feel Pressure - WATCH THIS | by Jay Shetty",
+          "image":"3.jpg",
+          "url":"CoQ_3m_i4cw",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":4,
+          "team":2,
+          "title":"This is why some people always succeed - You Must See This - Motivational Video",
+          "image":"4.jpg",
+          "url":"GPHnVpOQY_Q",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":5,
+          "team":8,
+          "title":"The Solution to all your Problems - By Sandeep Maheshwari",
+          "image":"5.jpg",
+          "url":"OhXvZDhYGJE",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":6,
+          "team":8,
+          "title":"Scared about Life/Career? Watch This",
+          "image":"6.jpg",
+          "url":"BIF-kjjaywI",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+
+        {
+          "id":7,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"7.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":8,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"8.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":9,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"9.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":10,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"10.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":11,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"1.jpeg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":12,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"2.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":13,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"3.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":14,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"4.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":15,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"5.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":16,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"6.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":17,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"7.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":18,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"8.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":19,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"9.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":20,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"10.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        }
+    ],
+    "teams": [
+        {
+          "id": 1,
+          "name": "Hawks",
+          "city": "Atlanta",
+          "logo": "hawks.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Celtics",
+          "city": "Boston",
+          "logo": "celtics.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Nets",
+          "city": "New Jersey",
+          "logo": "nets.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Hornets",
+          "city": "Charlotte",
+          "logo": "hornets.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Bulls",
+          "city": "Chicago",
+          "logo": "bulls.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "Cavaliers",
+          "city": "Cleveland",
+          "logo": "cavaliers.png",
+          "poll": "true",
+          "count": 2365,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Mavericks",
+          "city": "Dallas",
+          "logo": "mavericks.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Nuggets",
+          "logo": "nuggets.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Pistons",
+          "city": "Detroit",
+          "logo": "pistons.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Warriors",
+          "city": "Golden State",
+          "logo": "warriors.png",
+          "poll": "true",
+          "count": 2365,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Rockets",
+          "city": "Houston",
+          "logo": "rockets.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Pacers",
+          "city": "Indiana",
+          "logo": "pacers.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Clippers",
+          "city": "Los Angeles",
+          "logo": "clippers.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Lakers",
+          "city": "Los Angeles",
+          "logo": "lakers.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Grizzlies",
+          "city": "Vancouver",
+          "logo": "grizzlies.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Heat",
+          "city": "Miami",
+          "logo": "heat.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Bucks",
+          "city": "Milwakee",
+          "logo": "bucks.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "Timberwolves",
+          "city": "Minnesota",
+          "logo": "timberwolves.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "Pelicans",
+          "city": "New Orleans",
+          "logo": "pelicans.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "knicks",
+          "city": "New York",
+          "logo": "knicks.png",
+          "poll": "true",
+          "count": 13,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Thunder",
+          "city": "Oklahoma",
+          "logo": "thunder.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Magic",
+          "city": "Orlando",
+          "logo": "magic.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "76ers",
+          "city": "Philadelphia",
+          "logo": "76ers.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Spurs",
+          "city": "San Antonio",
+          "logo": "spurs.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Suns",
+          "city": "Phoenix",
+          "logo": "suns.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Kings",
+          "city": "Sacramento",
+          "logo": "kings.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Raptors",
+          "city": "Toronto",
+          "logo": "raptors.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Jazz",
+          "city": "Utah",
+          "logo": "jazz.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Blazers",
+          "city": "Portland",
+          "logo": "blazers.png",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        }
+      ]
+}

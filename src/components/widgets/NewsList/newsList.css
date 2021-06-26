@@ -1,0 +1,72 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato&display=swap');
+.newslist_item {
+    border: 1px solid #f2f2f2;
+    background: #fff;
+    margin-top:0px;
+    margin-bottom: 20px;
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+}
+
+.newslist_item h2 {
+    font-size: 1.3rem;
+    line-height: 21px;
+    margin:5px;
+    color:#525252;
+    padding-top: 0.5rem;
+    font-family: 'Lato', sans-serif;
+    font-weight: 500;
+}
+
+.newslist_item a {
+    text-decoration:none;
+}
+
+
+.newsList_wrapper {
+    box-sizing: border-box;
+    opacity: 0;
+    transform: translateX(-100%);
+    transition: all .5s ease-in;
+}
+
+.newsList_wrapper_enter {
+    opacity:1;
+    transform: translateX(0%)
+}
+
+
+.flex_wrapper {
+    display: flex;
+    border-bottom: 2px solid #d5d5d5;
+    background: #fff;
+}
+
+.left {
+    background-size: cover !important;
+}
+
+.left div {
+    width:90px;
+    height:90px;
+    background-size:  40px !important;
+    background-repeat: no-repeat !important;
+    background-position:  center center !important;
+}
+
+.right {
+    flex-grow: 1;
+    padding:10px;
+}
+
+.flex_wrapper h2 {
+    font-size: 1rem;
+    color:#525252;
+    font-family: 'Lato', sans-serif;
+}
+
+.flex_wrapper a {
+    text-decoration:none;
+}
